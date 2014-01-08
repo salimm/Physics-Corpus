@@ -1,0 +1,935 @@
+ http://en.wikipedia.org/wiki/Michael_Faraday
+ http://en.wikipedia.org/wiki/Microfabrication
+ http://en.wikipedia.org/wiki/Microtechnology
+ http://en.wikipedia.org/wiki/Microwave
+ http://en.wikipedia.org/wiki/Milky_Way
+ http://en.wikipedia.org/wiki/Mirror_symmetry_(string_theory)
+ http://en.wikipedia.org/wiki/Molecular_dynamics
+ http://en.wikipedia.org/wiki/Molecular_modelling
+ http://en.wikipedia.org/wiki/Moment_of_inertia
+ http://en.wikipedia.org/wiki/Momentum
+ http://en.wikipedia.org/wiki/Muon
+ http://en.wikipedia.org/wiki/Muon_neutrino
+ http://en.wikipedia.org/wiki/Nanoengineering
+ http://en.wikipedia.org/wiki/Nevill_Francis_Mott
+ http://en.wikipedia.org/wiki/Newton%27s_laws_of_motion
+ http://en.wikipedia.org/wiki/Nicolaas_Bloembergen
+ http://en.wikipedia.org/wiki/Nikola_Tesla
+ http://en.wikipedia.org/wiki/Nikolay_Basov
+ http://en.wikipedia.org/wiki/Nobel_Prize_for_Physics
+ http://en.wikipedia.org/wiki/Nobel_Prize_in_Physics
+ http://en.wikipedia.org/wiki/Norman_Foster_Ramsey,_Jr
+ http://en.wikipedia.org/wiki/Nuclear_force
+ http://en.wikipedia.org/wiki/Nuclear_reactor
+ http://en.wikipedia.org/wiki/Nuclear_technology
+ http://en.wikipedia.org/wiki/Nucleon
+ http://en.wikipedia.org/wiki/Nucleosynthesis
+ http://en.wikipedia.org/wiki/Observable_universe
+ http://en.wikipedia.org/wiki/Observation
+ http://en.wikipedia.org/wiki/Ohm%27s_law
+ http://en.wikipedia.org/wiki/Operator_(physics)
+ http://en.wikipedia.org/wiki/Optical_engineering
+ http://en.wikipedia.org/wiki/Optical_telescope
+ http://en.wikipedia.org/wiki/Oscillation
+ http://en.wikipedia.org/wiki/Otto_Stern
+ http://en.wikipedia.org/wiki/Outer_space
+ http://en.wikipedia.org/wiki/Owen_Chamberlain
+ http://en.wikipedia.org/wiki/Owen_Willans_Richardson
+ http://en.wikipedia.org/wiki/Paramagnetism
+ http://en.wikipedia.org/wiki/Parity_(physics)
+ http://en.wikipedia.org/wiki/Path_integral_formulation
+ http://en.wikipedia.org/wiki/Patrick_Blackett,_Baron_Blackett
+ http://en.wikipedia.org/wiki/Paul_Ehrenfest
+ http://en.wikipedia.org/wiki/Pauli_exclusion_principle
+ http://en.wikipedia.org/wiki/Pavel_Cherenkov
+ http://en.wikipedia.org/wiki/Percy_Williams_Bridgman
+ http://en.wikipedia.org/wiki/Perturbation_theory_(quantum_mechanics)
+ http://en.wikipedia.org/wiki/Peter_Debye
+ http://en.wikipedia.org/wiki/Peter_Gr%C3%BCnberg
+ http://en.wikipedia.org/wiki/Photoelectric_effect
+ http://en.wikipedia.org/wiki/Photons
+ http://en.wikipedia.org/wiki/Physics
+ http://en.wikipedia.org/wiki/Physics_equations
+ http://en.wikipedia.org/wiki/Pierre-Gilles_de_Gennes
+ http://en.wikipedia.org/wiki/Pion
+ http://en.wikipedia.org/wiki/Planck_(spacecraft)
+ http://en.wikipedia.org/wiki/Planck_constant
+ http://en.wikipedia.org/wiki/Plasticity_(physics)
+ http://en.wikipedia.org/wiki/Plate_tectonics
+ http://en.wikipedia.org/wiki/Polykarp_Kusch
+ http://en.wikipedia.org/wiki/Potential_energy
+ http://en.wikipedia.org/wiki/Power_(physics)
+ http://en.wikipedia.org/wiki/Pressure
+ http://en.wikipedia.org/wiki/Proton
+ http://en.wikipedia.org/wiki/Ptolemy
+ http://en.wikipedia.org/wiki/Pyotr_Kapitsa
+ http://en.wikipedia.org/wiki/Quantization_(physics)
+ http://en.wikipedia.org/wiki/Quantum_entanglement
+ http://en.wikipedia.org/wiki/Quantum_number
+ http://en.wikipedia.org/wiki/Quantum_state
+ http://en.wikipedia.org/wiki/Quantum_technology
+ http://en.wikipedia.org/wiki/Quasar
+ http://en.wikipedia.org/wiki/RF_engineering
+ http://en.wikipedia.org/wiki/Radiation
+ http://en.wikipedia.org/wiki/Radio
+ http://en.wikipedia.org/wiki/Radioactive_decay
+ http://en.wikipedia.org/wiki/Radioactivity
+ http://en.wikipedia.org/wiki/Redshift
+ http://en.wikipedia.org/wiki/Refraction
+ http://en.wikipedia.org/wiki/Reionization
+ http://en.wikipedia.org/wiki/Relative_velocity
+ http://en.wikipedia.org/wiki/Renewable_energy
+ http://en.wikipedia.org/wiki/Renormalization
+ http://en.wikipedia.org/wiki/Renormalization_group
+ http://en.wikipedia.org/wiki/Riccardo_Giacconi
+ http://en.wikipedia.org/wiki/Rigid_body
+ http://en.wikipedia.org/wiki/Rigid_body_dynamics
+ http://en.wikipedia.org/wiki/Robert_Andrews_Millikan
+ http://en.wikipedia.org/wiki/Robert_B._Laughlin
+ http://en.wikipedia.org/wiki/Robert_Brout
+ http://en.wikipedia.org/wiki/Robert_Coleman_Richardson
+ http://en.wikipedia.org/wiki/Robert_Hofstadter
+ http://en.wikipedia.org/wiki/Roy_J._Glauber
+ http://en.wikipedia.org/wiki/Russell_Alan_Hulse
+ http://en.wikipedia.org/wiki/Samuel_C._C._Ting
+ http://en.wikipedia.org/wiki/Saul_Perlmutter
+ http://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat
+ http://en.wikipedia.org/wiki/Scientific_theory
+ http://en.wikipedia.org/wiki/Serge_Haroche
+ http://en.wikipedia.org/wiki/Series_and_parallel_circuits
+ http://en.wikipedia.org/wiki/Simple_harmonic_motion
+ http://en.wikipedia.org/wiki/Sin-Itiro_Tomonaga
+ http://en.wikipedia.org/wiki/Solar_System
+ http://en.wikipedia.org/wiki/Solar_flare
+ http://en.wikipedia.org/wiki/Space_technology
+ http://en.wikipedia.org/wiki/Special_theory_of_relativity
+ http://en.wikipedia.org/wiki/Spectroscopy
+ http://en.wikipedia.org/wiki/Speed
+ http://en.wikipedia.org/wiki/Spontaneous_emission
+ http://en.wikipedia.org/wiki/State_of_matter
+ http://en.wikipedia.org/wiki/Static_electricity
+ http://en.wikipedia.org/wiki/Stellar_nucleosynthesis
+ http://en.wikipedia.org/wiki/Steven_Chu
+ http://en.wikipedia.org/wiki/Steven_Weinberg
+ http://en.wikipedia.org/wiki/Subatomic_particle
+ http://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar
+ http://en.wikipedia.org/wiki/Sun
+ http://en.wikipedia.org/wiki/Sunlight
+ http://en.wikipedia.org/wiki/Superfluid_vacuum_theory
+ http://en.wikipedia.org/wiki/Superfluidity
+ http://en.wikipedia.org/wiki/Supergravity
+ http://en.wikipedia.org/wiki/Tau_(particle)
+ http://en.wikipedia.org/wiki/Tau_neutrino
+ http://en.wikipedia.org/wiki/Theodor_W._H%C3%A4nsch
+ http://en.wikipedia.org/wiki/Thomas_Kuhn
+ http://en.wikipedia.org/wiki/Tom_W._B._Kibble
+ http://en.wikipedia.org/wiki/Top_quark
+ http://en.wikipedia.org/wiki/Torque
+ http://en.wikipedia.org/wiki/Toshihide_Maskawa
+ http://en.wikipedia.org/wiki/Twistor_theory
+ http://en.wikipedia.org/wiki/Ultrasound
+ http://en.wikipedia.org/wiki/Ultraviolet
+ http://en.wikipedia.org/wiki/Uncertainty_principle
+ http://en.wikipedia.org/wiki/Uniform_circular_motion
+ http://en.wikipedia.org/wiki/Up_quark
+ http://en.wikipedia.org/wiki/Vacuum
+ http://en.wikipedia.org/wiki/Vacuum_expectation_value
+ http://en.wikipedia.org/wiki/Vacuum_state
+ http://en.wikipedia.org/wiki/Val_Logsdon_Fitch
+ http://en.wikipedia.org/wiki/Van_der_Waals_force
+ http://en.wikipedia.org/wiki/Velocity
+ http://en.wikipedia.org/wiki/Vera_Rubin
+ http://en.wikipedia.org/wiki/Vibration
+ http://en.wikipedia.org/wiki/Victor_Francis_Hess
+ http://en.wikipedia.org/wiki/Viscosity
+ http://en.wikipedia.org/wiki/Vitaly_Ginzburg
+ http://en.wikipedia.org/wiki/Volt
+ http://en.wikipedia.org/wiki/Voltage
+ http://en.wikipedia.org/wiki/W%E2%80%B2_and_Z%E2%80%B2_bosons
+ http://en.wikipedia.org/wiki/Walter_Houser_Brattain
+ http://en.wikipedia.org/wiki/Walther_Bothe
+ http://en.wikipedia.org/wiki/Wave%E2%80%93particle_duality
+ http://en.wikipedia.org/wiki/Wave_function
+ http://en.wikipedia.org/wiki/Wavefunction
+ http://en.wikipedia.org/wiki/Wavelength
+ http://en.wikipedia.org/wiki/Weak_isospin
+ http://en.wikipedia.org/wiki/White_dwarf
+ http://en.wikipedia.org/wiki/Wilkinson_Microwave_Anisotropy_Probe
+ http://en.wikipedia.org/wiki/Willard_Boyle
+ http://en.wikipedia.org/wiki/Willem_de_Sitter
+ http://en.wikipedia.org/wiki/William_Alfred_Fowler
+ http://en.wikipedia.org/wiki/William_Daniel_Phillips
+ http://en.wikipedia.org/wiki/William_Henry_Bragg
+ http://en.wikipedia.org/wiki/William_Rowan_Hamilton
+ http://en.wikipedia.org/wiki/Willis_Lamb
+ http://en.wikipedia.org/wiki/Wolfgang_Ketterle
+ http://en.wikipedia.org/wiki/Wolfgang_Paul
+ http://en.wikipedia.org/wiki/Work_(physics)
+ http://en.wikipedia.org/wiki/X-ray
+ http://en.wikipedia.org/wiki/X-ray_crystallography
+ http://en.wikipedia.org/wiki/X_and_Y_bosons
+ http://en.wikipedia.org/wiki/Yang%E2%80%93Mills_theory
+ http://en.wikipedia.org/wiki/Zhores_Alferov
+ http://en.wikipedia.org/wiki/Abdus_Salam
+http://en.wikipedia.org/wiki/Absolute_time_and_space
+http://en.wikipedia.org/wiki/Accelerating_universe
+http://en.wikipedia.org/wiki/Accelerator_physics
+http://en.wikipedia.org/wiki/Acoustic_engineering
+http://en.wikipedia.org/wiki/Acoustics
+http://en.wikipedia.org/wiki/Aerodynamics
+http://en.wikipedia.org/wiki/Aerospace_engineering
+http://en.wikipedia.org/wiki/Albert_Einstein
+http://en.wikipedia.org/wiki/American_Institute_of_Physics
+http://en.wikipedia.org/wiki/American_Physical_Society
+http://en.wikipedia.org/wiki/Analytical_dynamics
+http://en.wikipedia.org/wiki/Antiferromagnet
+http://en.wikipedia.org/wiki/Antimatter
+http://en.wikipedia.org/wiki/Anton_Zeilinger
+http://en.wikipedia.org/wiki/Applied_Physics
+http://en.wikipedia.org/wiki/Applied_research
+http://en.wikipedia.org/wiki/ArXiv
+http://en.wikipedia.org/wiki/ArXiv.org
+http://en.wikipedia.org/wiki/Arnold_Sommerfeld
+http://en.wikipedia.org/wiki/Arthur_Compton
+http://en.wikipedia.org/wiki/Astrochemistry
+http://en.wikipedia.org/wiki/Astrometry
+http://en.wikipedia.org/wiki/Astronaut
+http://en.wikipedia.org/wiki/Astronomical
+http://en.wikipedia.org/wiki/Astronomy
+http://en.wikipedia.org/wiki/Astroparticle_physics
+http://en.wikipedia.org/wiki/Astrophysical
+http://en.wikipedia.org/wiki/Astrophysics
+http://en.wikipedia.org/wiki/Atmospheric_physics
+http://en.wikipedia.org/wiki/Atom
+http://en.wikipedia.org/wiki/Atomic,_molecular,_and_optical_physics
+http://en.wikipedia.org/wiki/Atomic_and_Molecular_astrophysics
+http://en.wikipedia.org/wiki/Atomic_nuclei
+http://en.wikipedia.org/wiki/Atomic_nucleus
+http://en.wikipedia.org/wiki/Atomic_physics
+http://en.wikipedia.org/wiki/Atomic_theory
+http://en.wikipedia.org/wiki/BCS_theory
+http://en.wikipedia.org/wiki/Baryon_asymmetry
+http://en.wikipedia.org/wiki/Big_Bang
+http://en.wikipedia.org/wiki/Big_Bang_nucleosynthesis
+http://en.wikipedia.org/wiki/Black_hole
+http://en.wikipedia.org/wiki/Bloch_wave
+http://en.wikipedia.org/wiki/Bose-Einstein_condensate
+http://en.wikipedia.org/wiki/Branches_of_physics
+http://en.wikipedia.org/wiki/C._V._Raman
+http://en.wikipedia.org/wiki/CERN
+http://en.wikipedia.org/wiki/Calculus
+http://en.wikipedia.org/wiki/Casimir_effect
+http://en.wikipedia.org/wiki/Celestial_mechanics
+http://en.wikipedia.org/wiki/Chemical_Physics
+http://en.wikipedia.org/wiki/Classical_electromagnetism
+http://en.wikipedia.org/wiki/Classical_mechanics
+http://en.wikipedia.org/wiki/Classical_physics
+http://en.wikipedia.org/wiki/Climatology
+http://en.wikipedia.org/wiki/Collision
+http://en.wikipedia.org/wiki/Communication_Physics
+http://en.wikipedia.org/wiki/Computational_particle_physics
+http://en.wikipedia.org/wiki/Computational_physics
+http://en.wikipedia.org/wiki/Condensed_matter_physics
+http://en.wikipedia.org/wiki/Conduction_electron
+http://en.wikipedia.org/wiki/Continuum_mechanics
+http://en.wikipedia.org/wiki/Cosmic_background_radiation
+http://en.wikipedia.org/wiki/Cosmic_inflation
+http://en.wikipedia.org/wiki/Cosmic_microwave_background
+http://en.wikipedia.org/wiki/Cosmic_string
+http://en.wikipedia.org/wiki/Cosmological_principle
+http://en.wikipedia.org/wiki/Cosmology
+http://en.wikipedia.org/wiki/Cosmos
+http://en.wikipedia.org/wiki/Crystal_lattice
+http://en.wikipedia.org/wiki/Dark_energy
+http://en.wikipedia.org/wiki/Dark_matter
+http://en.wikipedia.org/wiki/David_Hilbert
+http://en.wikipedia.org/wiki/Density_functional_theory
+http://en.wikipedia.org/wiki/Difference_between_chemistry_and_physics
+http://en.wikipedia.org/wiki/Diffraction
+http://en.wikipedia.org/wiki/Digital_physics
+http://en.wikipedia.org/wiki/Droplet
+http://en.wikipedia.org/wiki/Earth
+http://en.wikipedia.org/wiki/Earth_Science
+http://en.wikipedia.org/wiki/Econophysics
+http://en.wikipedia.org/wiki/Edwin_Hubble
+http://en.wikipedia.org/wiki/Effective_field_theory
+http://en.wikipedia.org/wiki/Einstein
+http://en.wikipedia.org/wiki/Electric_charge
+http://en.wikipedia.org/wiki/Electric_current
+http://en.wikipedia.org/wiki/Electrical_conduction
+http://en.wikipedia.org/wiki/Electrical_engineering
+http://en.wikipedia.org/wiki/Electricity
+http://en.wikipedia.org/wiki/Electroacoustics
+http://en.wikipedia.org/wiki/Electromagnetic_force
+http://en.wikipedia.org/wiki/Electromagnetic_radiation
+http://en.wikipedia.org/wiki/Electromagnetics
+http://en.wikipedia.org/wiki/Electromagnetism
+http://en.wikipedia.org/wiki/Electron
+http://en.wikipedia.org/wiki/Electrostatics
+http://en.wikipedia.org/wiki/Electroweak_interaction
+http://en.wikipedia.org/wiki/Elementary_particle
+http://en.wikipedia.org/wiki/Elementary_physics_formulae
+http://en.wikipedia.org/wiki/Energetic_neutral_atom
+http://en.wikipedia.org/wiki/Energy
+http://en.wikipedia.org/wiki/Engineering_physics
+http://en.wikipedia.org/wiki/Enrico_Fermi
+http://en.wikipedia.org/wiki/Ernest_O._Lawrence
+http://en.wikipedia.org/wiki/Ernest_Rutherford
+http://en.wikipedia.org/wiki/Ernest_Walton
+http://en.wikipedia.org/wiki/Ernst_Mach
+http://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+http://en.wikipedia.org/wiki/Eugene_Wigner
+http://en.wikipedia.org/wiki/Experimental_physics
+http://en.wikipedia.org/wiki/Fermi_Gamma-ray_Space_Telescope
+http://en.wikipedia.org/wiki/Fermi_gas
+http://en.wikipedia.org/wiki/Fermi_liquid
+http://en.wikipedia.org/wiki/Ferromagnet
+http://en.wikipedia.org/wiki/Feynman_diagram
+http://en.wikipedia.org/wiki/Field_(physics)
+http://en.wikipedia.org/wiki/Fluid_dynamics
+http://en.wikipedia.org/wiki/Fluid_mechanics
+http://en.wikipedia.org/wiki/Fluid_statics
+http://en.wikipedia.org/wiki/Force
+http://en.wikipedia.org/wiki/Frank_Wilczek
+http://en.wikipedia.org/wiki/Frederick_Soddy
+http://en.wikipedia.org/wiki/Free-fall
+http://en.wikipedia.org/wiki/Freeman_Dyson
+http://en.wikipedia.org/wiki/Fundamental_force
+http://en.wikipedia.org/wiki/Fundamental_interaction
+http://en.wikipedia.org/wiki/GZK_paradox
+http://en.wikipedia.org/wiki/Galactic_astronomy
+http://en.wikipedia.org/wiki/Galaxy
+http://en.wikipedia.org/wiki/Galaxy_rotation_problem
+http://en.wikipedia.org/wiki/Galileo
+http://en.wikipedia.org/wiki/Gamma-ray_astronomy
+http://en.wikipedia.org/wiki/Gas
+http://en.wikipedia.org/wiki/Gauge_boson
+http://en.wikipedia.org/wiki/Gauge_theory
+http://en.wikipedia.org/wiki/General_relativity
+http://en.wikipedia.org/wiki/Geochemistry
+http://en.wikipedia.org/wiki/Geodesy
+http://en.wikipedia.org/wiki/Geology
+http://en.wikipedia.org/wiki/Geomorphology
+http://en.wikipedia.org/wiki/Geophysics
+http://en.wikipedia.org/wiki/Gerard_%27t_Hooft
+http://en.wikipedia.org/wiki/Glaciology
+http://en.wikipedia.org/wiki/Gluon
+http://en.wikipedia.org/wiki/Grand_unification_theory
+http://en.wikipedia.org/wiki/Gravitation
+http://en.wikipedia.org/wiki/Gravitational_radiation
+http://en.wikipedia.org/wiki/Gravitational_singularity
+http://en.wikipedia.org/wiki/Gravity
+http://en.wikipedia.org/wiki/Hamiltonian_mechanics
+http://en.wikipedia.org/wiki/Hans_Christian_%C3%98rsted
+http://en.wikipedia.org/wiki/Heat
+http://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes
+http://en.wikipedia.org/wiki/Heliophysics
+http://en.wikipedia.org/wiki/Heliosphere
+http://en.wikipedia.org/wiki/Heike_Kamerlingh_Onnes
+http://en.wikipedia.org/wiki/Henri_Becquerel
+http://en.wikipedia.org/wiki/Henri_Poincar%C3%A9
+http://en.wikipedia.org/wiki/Henry_Moseley
+http://en.wikipedia.org/wiki/Hermann_Weyl
+http://en.wikipedia.org/wiki/Higgs_boson
+http://en.wikipedia.org/wiki/High-energy_astronomy
+http://en.wikipedia.org/wiki/High-energy_physics
+http://en.wikipedia.org/wiki/High-temperature_superconductivity
+http://en.wikipedia.org/wiki/High_pressure_physics
+http://en.wikipedia.org/wiki/Higher_dimension
+http://en.wikipedia.org/wiki/History_of_physics
+http://en.wikipedia.org/wiki/Horace_Lamb
+http://en.wikipedia.org/wiki/Hubble_Ultra_Deep_Field
+http://en.wikipedia.org/wiki/Hubble_diagram
+http://en.wikipedia.org/wiki/Human_geography
+http://en.wikipedia.org/wiki/Hydrology
+http://en.wikipedia.org/wiki/HyperPhysics
+http://en.wikipedia.org/wiki/Hyperfine_splitting
+http://en.wikipedia.org/wiki/IBEX
+http://en.wikipedia.org/wiki/Infrared
+http://en.wikipedia.org/wiki/Infrared_astronomy
+http://en.wikipedia.org/wiki/Institute_of_Physics
+http://en.wikipedia.org/wiki/Introduction_to_quantum_mechanics
+http://en.wikipedia.org/wiki/Ion_implantation
+http://en.wikipedia.org/wiki/Isaac_Newton
+http://en.wikipedia.org/wiki/J._J._Thomson
+http://en.wikipedia.org/wiki/James_Chadwick
+http://en.wikipedia.org/wiki/Johann_Wilhelm_Ritter
+http://en.wikipedia.org/wiki/Johannes_Diderik_van_der_Waals
+http://en.wikipedia.org/wiki/John_Archibald_Wheeler
+http://en.wikipedia.org/wiki/John_Bardeen
+http://en.wikipedia.org/wiki/John_Stewart_Bell
+http://en.wikipedia.org/wiki/Karl_Jansky
+http://en.wikipedia.org/wiki/Kepler
+http://en.wikipedia.org/wiki/Kinematics
+http://en.wikipedia.org/wiki/Kurt_G%C3%B6del
+http://en.wikipedia.org/wiki/Lagrangian_mechanics
+http://en.wikipedia.org/wiki/Lambda-CDM_model
+http://en.wikipedia.org/wiki/Laplace
+http://en.wikipedia.org/wiki/Large_Hadron_Collider
+http://en.wikipedia.org/wiki/Laser
+http://en.wikipedia.org/wiki/Laser_Physics
+http://en.wikipedia.org/wiki/Lattice_field_theory
+http://en.wikipedia.org/wiki/Lattice_gauge_theory
+http://en.wikipedia.org/wiki/Lava_flow
+http://en.wikipedia.org/wiki/Law_of_falling_bodies
+http://en.wikipedia.org/wiki/Laws_of_physics
+http://en.wikipedia.org/wiki/Lepton
+http://en.wikipedia.org/wiki/Lev_Landau
+http://en.wikipedia.org/wiki/Light
+http://en.wikipedia.org/wiki/Lightning
+http://en.wikipedia.org/wiki/Liquid
+http://en.wikipedia.org/wiki/Lodestone
+http://en.wikipedia.org/wiki/Loop_quantum_gravity
+http://en.wikipedia.org/wiki/Louis_de_Broglie
+http://en.wikipedia.org/wiki/Ludwig_Boltzmann
+http://en.wikipedia.org/wiki/M-theory
+http://en.wikipedia.org/wiki/Magnet
+http://en.wikipedia.org/wiki/Magnetic_field
+http://en.wikipedia.org/wiki/Magnetic_resonance_imaging
+http://en.wikipedia.org/wiki/Magnetism
+http://en.wikipedia.org/wiki/Magnetohydrodynamics
+http://en.wikipedia.org/wiki/Magnetostatics
+http://en.wikipedia.org/wiki/Many-body_theory
+http://en.wikipedia.org/wiki/Many-worlds_interpretation
+http://en.wikipedia.org/wiki/Marie_Curie
+http://en.wikipedia.org/wiki/Mass
+http://en.wikipedia.org/wiki/Material_physics
+http://en.wikipedia.org/wiki/Materials_engineering
+http://en.wikipedia.org/wiki/Materials_science
+http://en.wikipedia.org/wiki/Mathematical_physics
+http://en.wikipedia.org/wiki/Matter
+http://en.wikipedia.org/wiki/Max_Born
+http://en.wikipedia.org/wiki/Max_Planck
+http://en.wikipedia.org/wiki/Max_von_Laue
+http://en.wikipedia.org/wiki/Mechanical_engineering
+http://en.wikipedia.org/wiki/Mechanics
+http://en.wikipedia.org/wiki/Medical_physics
+http://en.wikipedia.org/wiki/Meissner_effect
+http://en.wikipedia.org/wiki/Membrane_(M-Theory)
+http://en.wikipedia.org/wiki/Meteorology
+http://en.wikipedia.org/wiki/Mining_engineering
+http://en.wikipedia.org/wiki/Modern_physics
+http://en.wikipedia.org/wiki/Molecular_physics
+http://en.wikipedia.org/wiki/Motion_(physics)
+http://en.wikipedia.org/wiki/Multiverse
+http://en.wikipedia.org/wiki/Murray_Gell-Mann
+http://en.wikipedia.org/wiki/NASA
+ http://en.wikipedia.org/wiki/Centrifugal_force
+ http://en.wikipedia.org/wiki/Centripetal_force
+ http://en.wikipedia.org/wiki/Charge_(physics)
+ http://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb
+ http://en.wikipedia.org/wiki/Charles_%C3%89douard_Guillaume
+ http://en.wikipedia.org/wiki/Charles_Darwin
+ http://en.wikipedia.org/wiki/Charles_Glover_Barkla
+ http://en.wikipedia.org/wiki/Charles_Hard_Townes
+ http://en.wikipedia.org/wiki/Charles_K._Kao
+ http://en.wikipedia.org/wiki/Charles_Thomson_Rees_Wilson
+ http://en.wikipedia.org/wiki/Charm_quark
+ http://en.wikipedia.org/wiki/Chemical_biology
+ http://en.wikipedia.org/wiki/Chemical_bond
+ http://en.wikipedia.org/wiki/Chemical_kinetics
+ http://en.wikipedia.org/wiki/Cheminformatics
+ http://en.wikipedia.org/wiki/Chemistry_education
+ http://en.wikipedia.org/wiki/Chen_Ning_Yang
+ http://en.wikipedia.org/wiki/Circular_motion
+ http://en.wikipedia.org/wiki/Claude_Cohen-Tannoudji
+ http://en.wikipedia.org/wiki/Click_chemistry
+ http://en.wikipedia.org/wiki/Clifford_Shull
+ http://en.wikipedia.org/wiki/Climate
+ http://en.wikipedia.org/wiki/Clinton_Davisson
+ http://en.wikipedia.org/wiki/Collider
+ http://en.wikipedia.org/wiki/Color_charge
+ http://en.wikipedia.org/wiki/Comet
+ http://en.wikipedia.org/wiki/Communication_physics
+ http://en.wikipedia.org/wiki/Conduction_band
+ http://en.wikipedia.org/wiki/Conservation_law
+ http://en.wikipedia.org/wiki/Conservation_of_energy
+ http://en.wikipedia.org/wiki/Construction
+ http://en.wikipedia.org/wiki/Control_engineering
+ http://en.wikipedia.org/wiki/Control_theory
+ http://en.wikipedia.org/wiki/Copenhagen_interpretation
+ http://en.wikipedia.org/wiki/Coriolis_effect
+ http://en.wikipedia.org/wiki/Corona
+ http://en.wikipedia.org/wiki/Cosmic_Background_Explorer
+ http://en.wikipedia.org/wiki/Cosmic_microwave_background_radiation
+ http://en.wikipedia.org/wiki/Cosmic_ray
+ http://en.wikipedia.org/wiki/Coulomb%27s_law
+ http://en.wikipedia.org/wiki/Coupling_constant
+ http://en.wikipedia.org/wiki/Critique_of_technology
+ http://en.wikipedia.org/wiki/Daniel_Bernoulli
+ http://en.wikipedia.org/wiki/Daniel_C._Tsui
+ http://en.wikipedia.org/wiki/David_Gross
+ http://en.wikipedia.org/wiki/David_J._Wineland
+ http://en.wikipedia.org/wiki/David_Lee_(physicist)
+ http://en.wikipedia.org/wiki/Dennis_Gabor
+ http://en.wikipedia.org/wiki/Density
+ http://en.wikipedia.org/wiki/Diffusion_of_innovations
+ http://en.wikipedia.org/wiki/Digital_Revolution
+ http://en.wikipedia.org/wiki/Displacement_(vector)
+ http://en.wikipedia.org/wiki/Disruptive_innovation
+ http://en.wikipedia.org/wiki/Doctoral_advisor
+ http://en.wikipedia.org/wiki/Donald_A._Glaser
+ http://en.wikipedia.org/wiki/Douglas_Osheroff
+ http://en.wikipedia.org/wiki/Down_quark
+ http://en.wikipedia.org/wiki/Earth%27s_atmosphere
+ http://en.wikipedia.org/wiki/Ecological_design
+ http://en.wikipedia.org/wiki/Ecological_engineering
+ http://en.wikipedia.org/wiki/Ecosystem
+ http://en.wikipedia.org/wiki/Ecotechnology
+ http://en.wikipedia.org/wiki/Edmond_Halley
+ http://en.wikipedia.org/wiki/Edward_Mills_Purcell
+ http://en.wikipedia.org/wiki/Edward_Victor_Appleton
+ http://en.wikipedia.org/wiki/Edward_Witten
+ http://en.wikipedia.org/wiki/Einstein_field_equations
+ http://en.wikipedia.org/wiki/Elasticity_(physics)
+ http://en.wikipedia.org/wiki/Electric_field
+ http://en.wikipedia.org/wiki/Electric_potential
+ http://en.wikipedia.org/wiki/Electrical_conductor
+ http://en.wikipedia.org/wiki/Electro-optics
+ http://en.wikipedia.org/wiki/Electrochemistry
+ http://en.wikipedia.org/wiki/Electromagnetic_field
+ http://en.wikipedia.org/wiki/Electromagnetic_induction
+ http://en.wikipedia.org/wiki/Electromagnetic_spectrum
+ http://en.wikipedia.org/wiki/Electron_hole
+ http://en.wikipedia.org/wiki/Electron_neutrino
+ http://en.wikipedia.org/wiki/Electron_volt
+ http://en.wikipedia.org/wiki/Electronic_band_structure
+ http://en.wikipedia.org/wiki/Electronic_engineering
+ http://en.wikipedia.org/wiki/Electronic_warfare
+ http://en.wikipedia.org/wiki/Electronics
+ http://en.wikipedia.org/wiki/Electronvolt
+ http://en.wikipedia.org/wiki/Elementary_charge
+ http://en.wikipedia.org/wiki/Emerging_technologies
+ http://en.wikipedia.org/wiki/Emilio_G._Segr%C3%A8
+ http://en.wikipedia.org/wiki/Energy_technology
+ http://en.wikipedia.org/wiki/Entropy
+ http://en.wikipedia.org/wiki/Environmental_engineering
+ http://en.wikipedia.org/wiki/Environmental_engineering_science
+ http://en.wikipedia.org/wiki/Environmental_law
+ http://en.wikipedia.org/wiki/Environmental_technology
+ http://en.wikipedia.org/wiki/Equation_of_state
+ http://en.wikipedia.org/wiki/Equations_of_motion
+ http://en.wikipedia.org/wiki/Equivalence_principle
+ http://en.wikipedia.org/wiki/Eric_Allin_Cornell
+ http://en.wikipedia.org/wiki/Ernest_Lawrence
+ http://en.wikipedia.org/wiki/Ernst_Ruska
+ http://en.wikipedia.org/wiki/Ettore_Majorana
+ http://en.wikipedia.org/wiki/Extragalactic_astronomy
+ http://en.wikipedia.org/wiki/Faddeev%E2%80%93Popov_ghost
+ http://en.wikipedia.org/wiki/Felix_Bloch
+ http://en.wikipedia.org/wiki/Fermion
+ http://en.wikipedia.org/wiki/Fermions
+ http://en.wikipedia.org/wiki/Ferrimagnetism
+ http://en.wikipedia.org/wiki/Ferromagnetism
+ http://en.wikipedia.org/wiki/Fictional_technology
+ http://en.wikipedia.org/wiki/Fictitious_force
+ http://en.wikipedia.org/wiki/Fluid
+ http://en.wikipedia.org/wiki/Fran%C3%A7ois_Englert
+ http://en.wikipedia.org/wiki/Frederick_Reines
+ http://en.wikipedia.org/wiki/Frequency
+ http://en.wikipedia.org/wiki/Friction
+ http://en.wikipedia.org/wiki/Frits_Zernike
+ http://en.wikipedia.org/wiki/Fullerene_chemistry
+ http://en.wikipedia.org/wiki/Gabriel_Lippmann
+ http://en.wikipedia.org/wiki/Gadget
+ http://en.wikipedia.org/wiki/Galaxy_filament
+ http://en.wikipedia.org/wiki/Galaxy_formation_and_evolution
+ http://en.wikipedia.org/wiki/Galileo_Galilei
+ http://en.wikipedia.org/wiki/Genetic_use_restriction_technology
+ http://en.wikipedia.org/wiki/Genomics
+ http://en.wikipedia.org/wiki/Geography
+ http://en.wikipedia.org/wiki/Geometry
+ http://en.wikipedia.org/wiki/Georg_Bednorz
+ http://en.wikipedia.org/wiki/Geotechnical_engineering
+ http://en.wikipedia.org/wiki/Gerald_Guralnik
+ http://en.wikipedia.org/wiki/Gerd_Binnig
+ http://en.wikipedia.org/wiki/Global_warming
+ http://en.wikipedia.org/wiki/Gottfried_Leibniz
+ http://en.wikipedia.org/wiki/Grand_Unified_Theory
+ http://en.wikipedia.org/wiki/Graph_theory
+ http://en.wikipedia.org/wiki/Graviton
+ http://en.wikipedia.org/wiki/Guglielmo_Marconi
+ http://en.wikipedia.org/wiki/Gustaf_Dal%C3%A9n
+ http://en.wikipedia.org/wiki/Gustav_Ludwig_Hertz
+ http://en.wikipedia.org/wiki/Hamiltonian_(quantum_mechanics)
+ http://en.wikipedia.org/wiki/Hannes_Alfv%C3%A9n
+ http://en.wikipedia.org/wiki/Hans_Bethe
+ http://en.wikipedia.org/wiki/Hans_Georg_Dehmelt
+ http://en.wikipedia.org/wiki/Harmonic_oscillator
+ http://en.wikipedia.org/wiki/Heinrich_Hertz
+ http://en.wikipedia.org/wiki/Heinrich_Rohrer
+ http://en.wikipedia.org/wiki/Helium
+ http://en.wikipedia.org/wiki/Help:Categories
+ http://en.wikipedia.org/wiki/Henry_Way_Kendall
+ http://en.wikipedia.org/wiki/Herbert_Kroemer
+ http://en.wikipedia.org/wiki/Hideki_Yukawa
+ http://en.wikipedia.org/wiki/Hierarchy_problem
+ http://en.wikipedia.org/wiki/Higgs_mechanism
+ http://en.wikipedia.org/wiki/History_of_classical_mechanics
+ http://en.wikipedia.org/wiki/History_of_technology
+ http://en.wikipedia.org/wiki/Holographic_principle
+ http://en.wikipedia.org/wiki/Hooke%27s_law
+ http://en.wikipedia.org/wiki/Hubble%27s_law
+ http://en.wikipedia.org/wiki/Hubble_Space_Telescope
+ http://en.wikipedia.org/wiki/Hugh_David_Politzer
+ http://en.wikipedia.org/wiki/Humanities
+ http://en.wikipedia.org/wiki/Hydraulic_engineering
+ http://en.wikipedia.org/wiki/Hydraulics
+ http://en.wikipedia.org/wiki/Hydrogen
+ http://en.wikipedia.org/wiki/Hype_cycle
+ http://en.wikipedia.org/wiki/Hypothesis
+ http://en.wikipedia.org/wiki/ICT_in_agriculture
+ http://en.wikipedia.org/wiki/Ian_Hacking
+ http://en.wikipedia.org/wiki/Ilya_Frank
+ http://en.wikipedia.org/wiki/Impact_of_technology_on_the_educational_system
+ http://en.wikipedia.org/wiki/Impulse_(physics)
+ http://en.wikipedia.org/wiki/Inertia
+ http://en.wikipedia.org/wiki/Inertial_frame_of_reference
+ http://en.wikipedia.org/wiki/Inevitability_thesis
+ http://en.wikipedia.org/wiki/Inflation_(cosmology)
+ http://en.wikipedia.org/wiki/Information_Age
+ http://en.wikipedia.org/wiki/Infrastructure
+ http://en.wikipedia.org/wiki/Insulator_(electricity)
+ http://en.wikipedia.org/wiki/Integrated_Authority_File
+ http://en.wikipedia.org/wiki/Interference_(wave_propagation)
+ http://en.wikipedia.org/wiki/Interstellar_medium
+ http://en.wikipedia.org/wiki/Ion
+ http://en.wikipedia.org/wiki/Ionizing_radiation
+ http://en.wikipedia.org/wiki/Iron
+ http://en.wikipedia.org/wiki/Isidor_Isaac_Rabi
+ http://en.wikipedia.org/wiki/Isotope
+ http://en.wikipedia.org/wiki/Ivar_Giaever
+ http://en.wikipedia.org/wiki/J%C3%BCrgen_Ehlers
+ http://en.wikipedia.org/wiki/J._Hans_D._Jensen
+ http://en.wikipedia.org/wiki/JSTOR
+ http://en.wikipedia.org/wiki/Jack_Kilby
+ http://en.wikipedia.org/wiki/Jack_Steinberger
+ http://en.wikipedia.org/wiki/James_Clerk_Maxwell
+ http://en.wikipedia.org/wiki/James_Cronin
+ http://en.wikipedia.org/wiki/James_Franck
+ http://en.wikipedia.org/wiki/James_Rainwater
+ http://en.wikipedia.org/wiki/Jean_Baptiste_Perrin
+ http://en.wikipedia.org/wiki/Jean_le_Rond_d%27Alembert
+ http://en.wikipedia.org/wiki/Jerome_Isaac_Friedman
+ http://en.wikipedia.org/wiki/Jet_Age
+ http://en.wikipedia.org/wiki/Johannes_Kepler
+ http://en.wikipedia.org/wiki/Johannes_Stark
+ http://en.wikipedia.org/wiki/John_C._Mather
+ http://en.wikipedia.org/wiki/John_Clive_Ward
+ http://en.wikipedia.org/wiki/John_Cockcroft
+ http://en.wikipedia.org/wiki/John_Dalton
+ http://en.wikipedia.org/wiki/John_Hasbrouck_Van_Vleck
+ http://en.wikipedia.org/wiki/John_L._Hall
+ http://en.wikipedia.org/wiki/John_Robert_Schrieffer
+ http://en.wikipedia.org/wiki/John_Strutt,_3rd_Baron_Rayleigh
+ http://en.wikipedia.org/wiki/Joseph-Louis_Lagrange
+ http://en.wikipedia.org/wiki/Joseph_Hooton_Taylor,_Jr
+ http://en.wikipedia.org/wiki/Josiah_Willard_Gibbs
+ http://en.wikipedia.org/wiki/Joule
+ http://en.wikipedia.org/wiki/Julian_Schwinger
+ http://en.wikipedia.org/wiki/Jupiter
+ http://en.wikipedia.org/wiki/Kai_Siegbahn
+ http://en.wikipedia.org/wiki/Kaluza%E2%80%93Klein_theory
+ http://en.wikipedia.org/wiki/Kelvin
+ http://en.wikipedia.org/wiki/Kenneth_G._Wilson
+ http://en.wikipedia.org/wiki/Kepler%27s_laws_of_planetary_motion
+ http://en.wikipedia.org/wiki/Kinetic_energy
+ http://en.wikipedia.org/wiki/Kinetic_theory
+ http://en.wikipedia.org/wiki/Kinetics_(physics)
+ http://en.wikipedia.org/wiki/Klaus_von_Klitzing
+ http://en.wikipedia.org/wiki/Knowledge
+ http://en.wikipedia.org/wiki/Konstantin_Novoselov
+ http://en.wikipedia.org/wiki/Lagrangian
+ http://en.wikipedia.org/wiki/Landscape_ecology
+ http://en.wikipedia.org/wiki/Landscape_engineering
+ http://en.wikipedia.org/wiki/Large-scale_structure_of_the_cosmos
+ http://en.wikipedia.org/wiki/Latin
+ http://en.wikipedia.org/wiki/Lattice_QCD
+ http://en.wikipedia.org/wiki/Lead
+ http://en.wikipedia.org/wiki/Leo_Esaki
+ http://en.wikipedia.org/wiki/Leon_Cooper
+ http://en.wikipedia.org/wiki/Leon_M._Lederman
+ http://en.wikipedia.org/wiki/Leonhard_Euler
+ http://en.wikipedia.org/wiki/Library_of_Congress_Control_Number
+ http://en.wikipedia.org/wiki/Life
+ http://en.wikipedia.org/wiki/Linus_Pauling
+ http://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Physics
+ http://en.wikipedia.org/wiki/List_of_academic_disciplines
+ http://en.wikipedia.org/wiki/List_of_biomolecules
+ http://en.wikipedia.org/wiki/List_of_emerging_technologies
+ http://en.wikipedia.org/wiki/List_of_engineering_branches
+ http://en.wikipedia.org/wiki/List_of_inorganic_compounds
+ http://en.wikipedia.org/wiki/List_of_particles
+ http://en.wikipedia.org/wiki/List_of_publications_in_physics
+ http://en.wikipedia.org/wiki/List_of_technologies
+ http://en.wikipedia.org/wiki/Lorentz_force
+ http://en.wikipedia.org/wiki/Lorentz_transformation
+ http://en.wikipedia.org/wiki/Louis_N%C3%A9el
+ http://en.wikipedia.org/wiki/Low-technology
+ http://en.wikipedia.org/wiki/Luis_Walter_Alvarez
+ http://en.wikipedia.org/wiki/Macro-engineering
+ http://en.wikipedia.org/wiki/Magnetic_flux
+ http://en.wikipedia.org/wiki/Magnetic_moment
+ http://en.wikipedia.org/wiki/Magnetic_monopole
+ http://en.wikipedia.org/wiki/Magnetization
+ http://en.wikipedia.org/wiki/Magnetosphere
+ http://en.wikipedia.org/wiki/Majorana_fermion
+ http://en.wikipedia.org/wiki/Makoto_Kobayashi_(physicist)
+ http://en.wikipedia.org/wiki/Manne_Siegbahn
+ http://en.wikipedia.org/wiki/Maria_Goeppert-Mayer
+ http://en.wikipedia.org/wiki/Martin_Lewis_Perl
+ http://en.wikipedia.org/wiki/Martin_Ryle
+ http://en.wikipedia.org/wiki/Martinus_J._G._Veltman
+ http://en.wikipedia.org/wiki/Martinus_Veltman
+ http://en.wikipedia.org/wiki/Masatoshi_Koshiba
+ http://en.wikipedia.org/wiki/Mass%E2%80%93energy_equivalence
+ http://en.wikipedia.org/wiki/Mathematician
+ http://en.wikipedia.org/wiki/Matrix_mechanics
+ http://en.wikipedia.org/wiki/Mature_technology
+ http://en.wikipedia.org/wiki/Maxwell%27s_equations
+ http://en.wikipedia.org/wiki/Mechatronics
+ http://en.wikipedia.org/wiki/Megascale_engineering
+ http://en.wikipedia.org/wiki/Melvin_Schwartz
+ http://en.wikipedia.org/wiki/Mercury_(element)
+ http://en.wikipedia.org/wiki/Meson
+ http://en.wikipedia.org/wiki/Metabolism
+ http://en.wikipedia.org/wiki/Metal
+ http://en.wikipedia.org/wiki/Metallurgy
+ http://en.wikipedia.org/wiki/Metaphysics
+ http://en.wikipedia.org/wiki/Metric_expansion_of_space
+ http://en.wikipedia.org/wiki/Nanotechnology
+ http://en.wikipedia.org/wiki/Natural_philosophy
+ http://en.wikipedia.org/wiki/Natural_science
+ http://en.wikipedia.org/wiki/Neutrino
+ http://en.wikipedia.org/wiki/Neutrino_oscillation
+ http://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation
+ http://en.wikipedia.org/wiki/Niels_Bohr
+ http://en.wikipedia.org/wiki/Nonlinear_optics
+ http://en.wikipedia.org/wiki/Nuclear_Physics
+ http://en.wikipedia.org/wiki/Nuclear_astrophysics
+ http://en.wikipedia.org/wiki/Nuclear_engineering
+ http://en.wikipedia.org/wiki/Nuclear_fission
+ http://en.wikipedia.org/wiki/Nuclear_fusion
+ http://en.wikipedia.org/wiki/Nuclear_power
+ http://en.wikipedia.org/wiki/Nuclear_weapon
+ http://en.wikipedia.org/wiki/Optical_field
+ http://en.wikipedia.org/wiki/Optical_physics
+ http://en.wikipedia.org/wiki/Optics
+ http://en.wikipedia.org/wiki/Optoelectronics
+ http://en.wikipedia.org/wiki/Outline_of_physical_science
+ http://en.wikipedia.org/wiki/Outline_of_physics
+ http://en.wikipedia.org/wiki/Parabola
+ http://en.wikipedia.org/wiki/Particle_accelerator
+ http://en.wikipedia.org/wiki/Particle_astrophysics
+ http://en.wikipedia.org/wiki/Particle_detector
+ http://en.wikipedia.org/wiki/Particle_physics
+ http://en.wikipedia.org/wiki/Particle_physics_phenomenology
+ http://en.wikipedia.org/wiki/Pascual_Jordan
+ http://en.wikipedia.org/wiki/Paul_Dirac
+ http://en.wikipedia.org/wiki/Perfection
+ http://en.wikipedia.org/wiki/Peter_Higgs
+ http://en.wikipedia.org/wiki/Phase_(matter)
+ http://en.wikipedia.org/wiki/Phenomenology_(particle_physics)
+ http://en.wikipedia.org/wiki/Phenomenon
+ http://en.wikipedia.org/wiki/Philip_Warren_Anderson
+ http://en.wikipedia.org/wiki/Philipp_Lenard
+ http://en.wikipedia.org/wiki/Philosophy
+ http://en.wikipedia.org/wiki/Philosophy_of_physics
+ http://en.wikipedia.org/wiki/Philosophy_of_science
+ http://en.wikipedia.org/wiki/Phonon
+ http://en.wikipedia.org/wiki/Photon
+ http://en.wikipedia.org/wiki/Physical_chemistry
+ http://en.wikipedia.org/wiki/Physical_cosmology
+ http://en.wikipedia.org/wiki/Physical_theory
+ http://en.wikipedia.org/wiki/Physicist
+ http://en.wikipedia.org/wiki/Physics_(Aristotle)
+ http://en.wikipedia.org/wiki/Physics_education
+ http://en.wikipedia.org/wiki/Pierre_Curie
+ http://en.wikipedia.org/wiki/Pieter_Zeeman
+ http://en.wikipedia.org/wiki/Planet
+ http://en.wikipedia.org/wiki/Planetary_science
+ http://en.wikipedia.org/wiki/Plasma_(physics)
+ http://en.wikipedia.org/wiki/Plasma_physics
+ http://en.wikipedia.org/wiki/Polarization_(waves)
+ http://en.wikipedia.org/wiki/Polymer_physics
+ http://en.wikipedia.org/wiki/Portal:Physics
+ http://en.wikipedia.org/wiki/Quantum
+ http://en.wikipedia.org/wiki/Quantum_Mechanics
+ http://en.wikipedia.org/wiki/Quantum_chemistry
+ http://en.wikipedia.org/wiki/Quantum_chromodynamics
+ http://en.wikipedia.org/wiki/Quantum_computer
+ http://en.wikipedia.org/wiki/Quantum_electrodynamics
+ http://en.wikipedia.org/wiki/Quantum_electronics
+ http://en.wikipedia.org/wiki/Quantum_field_theory
+ http://en.wikipedia.org/wiki/Quantum_gravity
+ http://en.wikipedia.org/wiki/Quantum_information_science
+ http://en.wikipedia.org/wiki/Quantum_mechanics
+ http://en.wikipedia.org/wiki/Quantum_optics
+ http://en.wikipedia.org/wiki/Quantum_physics
+ http://en.wikipedia.org/wiki/Quantum_statistical_mechanics
+ http://en.wikipedia.org/wiki/Quark
+ http://en.wikipedia.org/wiki/R.P._Feynman
+ http://en.wikipedia.org/wiki/Radio_astronomy
+ http://en.wikipedia.org/wiki/Reductionism
+ http://en.wikipedia.org/wiki/Rheology
+ http://en.wikipedia.org/wiki/Richard_Feynman
+ http://en.wikipedia.org/wiki/Robert_A._Millikan
+ http://en.wikipedia.org/wiki/Roger_Penrose
+ http://en.wikipedia.org/wiki/Rotation
+ http://en.wikipedia.org/wiki/Satyendra_Nath_Bose
+ http://en.wikipedia.org/wiki/Schr%C3%B6dinger
+ http://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation
+ http://en.wikipedia.org/wiki/Scientific_method
+ http://en.wikipedia.org/wiki/Seesaw_mechanism
+ http://en.wikipedia.org/wiki/Self-organization
+ http://en.wikipedia.org/wiki/Semiconductor
+ http://en.wikipedia.org/wiki/Simple_machine
+ http://en.wikipedia.org/wiki/Sir_George_Paget_Thomson
+ http://en.wikipedia.org/wiki/Sir_Isaac_Newton
+ http://en.wikipedia.org/wiki/Society_of_Physics_Students
+ http://en.wikipedia.org/wiki/Solar_Physics
+ http://en.wikipedia.org/wiki/Solar_neutrino_problem
+ http://en.wikipedia.org/wiki/Solar_system
+ http://en.wikipedia.org/wiki/Solar_wind
+ http://en.wikipedia.org/wiki/Solid
+ http://en.wikipedia.org/wiki/Solid-state_chemistry
+ http://en.wikipedia.org/wiki/Solid-state_physics
+ http://en.wikipedia.org/wiki/Solid_mechanics
+ http://en.wikipedia.org/wiki/Solvay_Conference
+ http://en.wikipedia.org/wiki/Sound
+ http://en.wikipedia.org/wiki/Space
+ http://en.wikipedia.org/wiki/Space_Science
+ http://en.wikipedia.org/wiki/Space_physics
+ http://en.wikipedia.org/wiki/Spacetime
+ http://en.wikipedia.org/wiki/Special:WhatLinksHere/Physics
+ http://en.wikipedia.org/wiki/Special_relativity
+ http://en.wikipedia.org/wiki/Special_sciences
+ http://en.wikipedia.org/wiki/Spectral_line
+ http://en.wikipedia.org/wiki/Speed_of_light
+ http://en.wikipedia.org/wiki/Spin_(physics)
+ http://en.wikipedia.org/wiki/Spintronics
+ http://en.wikipedia.org/wiki/Spontaneous_symmetry_breaking
+ http://en.wikipedia.org/wiki/Standard_Model
+ http://en.wikipedia.org/wiki/Star
+ http://en.wikipedia.org/wiki/Statistical_Mechanics
+ http://en.wikipedia.org/wiki/Statistical_physics
+ http://en.wikipedia.org/wiki/Steady_state_theory
+ http://en.wikipedia.org/wiki/Stellar_evolution
+ http://en.wikipedia.org/wiki/Stellar_physics
+ http://en.wikipedia.org/wiki/Stellar_structure
+ http://en.wikipedia.org/wiki/Stephen_Hawking
+ http://en.wikipedia.org/wiki/String_(physics)
+ http://en.wikipedia.org/wiki/String_theory
+ http://en.wikipedia.org/wiki/Strong_interaction
+ http://en.wikipedia.org/wiki/Strong_nuclear_force
+ http://en.wikipedia.org/wiki/Superconductivity
+ http://en.wikipedia.org/wiki/Superconductor
+ http://en.wikipedia.org/wiki/Superfluid
+ http://en.wikipedia.org/wiki/Supernova
+ http://en.wikipedia.org/wiki/Superstring_theory
+ http://en.wikipedia.org/wiki/Supersymmetry
+ http://en.wikipedia.org/wiki/Surface_science
+ http://en.wikipedia.org/wiki/Surface_tension
+ http://en.wikipedia.org/wiki/TeV
+ http://en.wikipedia.org/wiki/Temperature
+ http://en.wikipedia.org/wiki/Template:Branches_of_physics
+ http://en.wikipedia.org/wiki/Template:Modern_physics
+ http://en.wikipedia.org/wiki/Template_talk:Branches_of_physics
+ http://en.wikipedia.org/wiki/Template_talk:Fundamental_interactions
+ http://en.wikipedia.org/wiki/Template_talk:Modern_physics
+ http://en.wikipedia.org/wiki/Termination_shock
+ http://en.wikipedia.org/wiki/The_Assayer
+ http://en.wikipedia.org/wiki/The_Feynman_Lectures_on_Physics
+ http://en.wikipedia.org/wiki/The_Road_to_Reality
+ http://en.wikipedia.org/wiki/Theoretical_physics
+ http://en.wikipedia.org/wiki/Theory
+ http://en.wikipedia.org/wiki/Theory_of_Everything
+ http://en.wikipedia.org/wiki/Theory_of_relativity
+ http://en.wikipedia.org/wiki/Thermodynamics
+ http://en.wikipedia.org/wiki/Time http://en.wikipedia.org/wiki/Timeline_of_developments_in_theoretical_physics
+ http://en.wikipedia.org/wiki/Timeline_of_fundamental_physics_discoveries
+ http://en.wikipedia.org/wiki/Transistor
+ http://en.wikipedia.org/wiki/Tsung-Dao_Lee
+ http://en.wikipedia.org/wiki/Turbulence
+ http://en.wikipedia.org/wiki/Ultrasonics
+ http://en.wikipedia.org/wiki/Ultraviolet_astronomy
+ http://en.wikipedia.org/wiki/Ultraviolet_radiation
+ http://en.wikipedia.org/wiki/Uncertainty
+ http://en.wikipedia.org/wiki/Universe
+ http://en.wikipedia.org/wiki/Vacuum_energy
+ http://en.wikipedia.org/wiki/Vehicle_dynamics
+ http://en.wikipedia.org/wiki/Visible_light
+ http://en.wikipedia.org/wiki/W_and_Z_bosons
+ http://en.wikipedia.org/wiki/Water
+ http://en.wikipedia.org/wiki/Wave
+ http://en.wikipedia.org/wiki/Weak_interaction
+ http://en.wikipedia.org/wiki/Weak_nuclear_force
+ http://en.wikipedia.org/wiki/Weakly_interacting_massive_particle
+ http://en.wikipedia.org/wiki/Werner_Heisenberg
+ http://en.wikipedia.org/wiki/Wilhelm_R%C3%B6ntgen
+ http://en.wikipedia.org/wiki/Wilhelm_Wien
+ http://en.wikipedia.org/wiki/William_Lawrence_Bragg
+ http://en.wikipedia.org/wiki/William_Shockley
+ http://en.wikipedia.org/wiki/Wolfgang_Pauli
+ http://en.wikipedia.org/wiki/X-ray_astronomy
+ http://en.wikipedia.org/wiki/Yoichiro_Nambu
+ http://en.wikipedia.org/wiki/Aage_Bohr
+ http://en.wikipedia.org/wiki/Absolute_zero
+ http://en.wikipedia.org/wiki/Acceleration
+ http://en.wikipedia.org/wiki/Acoustical_engineering
+ http://en.wikipedia.org/wiki/Adam_Riess
+ http://en.wikipedia.org/wiki/Alan_Guth
+ http://en.wikipedia.org/wiki/Albert_Abraham_Michelson
+ http://en.wikipedia.org/wiki/Albert_Fert
+ http://en.wikipedia.org/wiki/Alexander_Prokhorov
+ http://en.wikipedia.org/wiki/Alexei_Alexeyevich_Abrikosov
+ http://en.wikipedia.org/wiki/Alfred_Kastler
+ http://en.wikipedia.org/wiki/Amp%C3%A8re%27s_circuital_law
+ http://en.wikipedia.org/wiki/Ampere
+ http://en.wikipedia.org/wiki/Analytical_mechanics
+ http://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re
+ http://en.wikipedia.org/wiki/Andre_Geim
+ http://en.wikipedia.org/wiki/Angular_frequency
+ http://en.wikipedia.org/wiki/Angular_momentum
+ http://en.wikipedia.org/wiki/Angular_velocity
+ http://en.wikipedia.org/wiki/Anthony_James_Leggett
+ http://en.wikipedia.org/wiki/Antiferromagnetism
+ http://en.wikipedia.org/wiki/Antiparticle
+ http://en.wikipedia.org/wiki/Antony_Hewish
+ http://en.wikipedia.org/wiki/Applied_mechanics
+ http://en.wikipedia.org/wiki/Archimedes
+ http://en.wikipedia.org/wiki/Aristotle
+ http://en.wikipedia.org/wiki/Arno_Allan_Penzias
+ http://en.wikipedia.org/wiki/Arthur_Leonard_Schawlow
+ http://en.wikipedia.org/wiki/Astrodynamics
+ http://en.wikipedia.org/wiki/Astronomical_unit
+ http://en.wikipedia.org/wiki/Atmosphere
+ http://en.wikipedia.org/wiki/Atmospheric_sciences
+ http://en.wikipedia.org/wiki/Atomic_number
+ http://en.wikipedia.org/wiki/Atomic_orbital
+ http://en.wikipedia.org/wiki/Atoms
+ http://en.wikipedia.org/wiki/Augustin-Louis_Cauchy
+ http://en.wikipedia.org/wiki/Averroes
+ http://en.wikipedia.org/wiki/Baryon
+ http://en.wikipedia.org/wiki/Bell_test_experiments
+ http://en.wikipedia.org/wiki/Ben_Roy_Mottelson
+ http://en.wikipedia.org/wiki/Bertram_Brockhouse
+ http://en.wikipedia.org/wiki/Beta_decay
+ http://en.wikipedia.org/wiki/Binding_energy
+ http://en.wikipedia.org/wiki/Blaise_Pascal
+ http://en.wikipedia.org/wiki/Bohr_model
+ http://en.wikipedia.org/wiki/Boltzmann_constant
+ http://en.wikipedia.org/wiki/Boson
+ http://en.wikipedia.org/wiki/Bottom_quark
+ http://en.wikipedia.org/wiki/Bound_state
+ http://en.wikipedia.org/wiki/Brian_David_Josephson
+ http://en.wikipedia.org/wiki/Brian_Schmidt
+ http://en.wikipedia.org/wiki/Brownian_motion
+ http://en.wikipedia.org/wiki/Burton_Richter
+ http://en.wikipedia.org/wiki/C._F._Powell
+ http://en.wikipedia.org/wiki/C._R._Hagen
+ http://en.wikipedia.org/wiki/CKM_matrix
+ http://en.wikipedia.org/wiki/CP_violation
+ http://en.wikipedia.org/wiki/Carbon
+ http://en.wikipedia.org/wiki/Carbon_dioxide
+ http://en.wikipedia.org/wiki/Carl_David_Anderson
