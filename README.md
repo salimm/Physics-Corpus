@@ -12,4 +12,3 @@ You may find the following useful:<br>
 4.  [Sources](https://github.com/salimm/Physics-Corpus/wiki/Sources)<br>
 5.  [List of Wikipedia Pages](https://github.com/salimm/Physics-Corpus/wiki/List-of-Wikipedia-Pages)<br>
 6.  [How to Extend Wikipedia Pages](https://github.com/salimm/Physics-Corpus/wiki/How-to-Extend-Wiki-Pages)<br>
-7.  [Authors](https://github.com/salimm/Physics-Corpus/wiki/Authors)
